@@ -1,2 +1,2 @@
-# exercises
+# Exercises
 My programmign challenges vault
